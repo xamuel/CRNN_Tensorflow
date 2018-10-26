@@ -1,0 +1,2 @@
+cat result.txt | cut -d' ' -f 7 > ori.txt
+cat result.txt | cut -d' ' -f 11 > res.txt

@@ -1,0 +1,414 @@
+WARNING: 10-25 14:20:13: tf_logging.py:125 * 140490374080256 From /usr/local/lib/python3.5/dist-packages/tensorflow/python/training/input.py:187: QueueRunner.__init__ (from tensorflow.python.training.queue_runner_impl) is deprecated and will be removed in a future version.
+Instructions for updating:
+To construct input pipelines, use the `tf.data` module.
+WARNING: 10-25 14:20:13: tf_logging.py:125 * 140490374080256 From /usr/local/lib/python3.5/dist-packages/tensorflow/python/training/input.py:187: add_queue_runner (from tensorflow.python.training.queue_runner_impl) is deprecated and will be removed in a future version.
+Instructions for updating:
+To construct input pipelines, use the `tf.data` module.
+WARNING: 10-25 14:20:13: tf_logging.py:125 * 140490374080256 From /home/rnd/Downloads/work/Project/CRNN_Tensorflow_Car_number_plate/crnn_model/crnn_model.py:123: BasicLSTMCell.__init__ (from tensorflow.python.ops.rnn_cell_impl) is deprecated and will be removed in a future version.
+Instructions for updating:
+This class is deprecated, please use tf.nn.rnn_cell.LSTMCell, which supports all the feature this cell currently has. Please replace the existing code with tf.nn.rnn_cell.LSTMCell(name='basic_lstm_cell').
+WARNING: 10-25 14:20:22: tf_logging.py:125 * 140490374080256 From train_shadownet.py:130: start_queue_runners (from tensorflow.python.training.queue_runner_impl) is deprecated and will be removed in a future version.
+Instructions for updating:
+To construct input pipelines, use the `tf.data` module.
+WARNING: 10-25 14:23:03: tf_logging.py:125 * 140361594074880 From /usr/local/lib/python3.5/dist-packages/tensorflow/python/training/input.py:187: QueueRunner.__init__ (from tensorflow.python.training.queue_runner_impl) is deprecated and will be removed in a future version.
+Instructions for updating:
+To construct input pipelines, use the `tf.data` module.
+WARNING: 10-25 14:23:03: tf_logging.py:125 * 140361594074880 From /usr/local/lib/python3.5/dist-packages/tensorflow/python/training/input.py:187: add_queue_runner (from tensorflow.python.training.queue_runner_impl) is deprecated and will be removed in a future version.
+Instructions for updating:
+To construct input pipelines, use the `tf.data` module.
+WARNING: 10-25 14:23:03: tf_logging.py:125 * 140361594074880 From /home/rnd/Downloads/work/Project/CRNN_Tensorflow_Car_number_plate/crnn_model/crnn_model.py:123: BasicLSTMCell.__init__ (from tensorflow.python.ops.rnn_cell_impl) is deprecated and will be removed in a future version.
+Instructions for updating:
+This class is deprecated, please use tf.nn.rnn_cell.LSTMCell, which supports all the feature this cell currently has. Please replace the existing code with tf.nn.rnn_cell.LSTMCell(name='basic_lstm_cell').
+WARNING: 10-25 14:23:05: tf_logging.py:125 * 140361594074880 From train_shadownet.py:130: start_queue_runners (from tensorflow.python.training.queue_runner_impl) is deprecated and will be removed in a future version.
+Instructions for updating:
+To construct input pipelines, use the `tf.data` module.
+WARNING: 10-25 14:25:46: tf_logging.py:125 * 139621492635392 From /usr/local/lib/python3.5/dist-packages/tensorflow/python/training/input.py:187: QueueRunner.__init__ (from tensorflow.python.training.queue_runner_impl) is deprecated and will be removed in a future version.
+Instructions for updating:
+To construct input pipelines, use the `tf.data` module.
+WARNING: 10-25 14:25:46: tf_logging.py:125 * 139621492635392 From /usr/local/lib/python3.5/dist-packages/tensorflow/python/training/input.py:187: add_queue_runner (from tensorflow.python.training.queue_runner_impl) is deprecated and will be removed in a future version.
+Instructions for updating:
+To construct input pipelines, use the `tf.data` module.
+WARNING: 10-25 14:25:47: tf_logging.py:125 * 139621492635392 From /home/rnd/Downloads/work/Project/CRNN_Tensorflow_Car_number_plate/crnn_model/crnn_model.py:123: BasicLSTMCell.__init__ (from tensorflow.python.ops.rnn_cell_impl) is deprecated and will be removed in a future version.
+Instructions for updating:
+This class is deprecated, please use tf.nn.rnn_cell.LSTMCell, which supports all the feature this cell currently has. Please replace the existing code with tf.nn.rnn_cell.LSTMCell(name='basic_lstm_cell').
+WARNING: 10-25 14:25:48: tf_logging.py:125 * 139621492635392 From train_shadownet.py:130: start_queue_runners (from tensorflow.python.training.queue_runner_impl) is deprecated and will be removed in a future version.
+Instructions for updating:
+To construct input pipelines, use the `tf.data` module.
+WARNING: 10-25 14:26:52: tf_logging.py:125 * 140644986218240 From /usr/local/lib/python3.5/dist-packages/tensorflow/python/training/input.py:187: QueueRunner.__init__ (from tensorflow.python.training.queue_runner_impl) is deprecated and will be removed in a future version.
+Instructions for updating:
+To construct input pipelines, use the `tf.data` module.
+WARNING: 10-25 14:26:52: tf_logging.py:125 * 140644986218240 From /usr/local/lib/python3.5/dist-packages/tensorflow/python/training/input.py:187: add_queue_runner (from tensorflow.python.training.queue_runner_impl) is deprecated and will be removed in a future version.
+Instructions for updating:
+To construct input pipelines, use the `tf.data` module.
+WARNING: 10-25 14:26:52: tf_logging.py:125 * 140644986218240 From /home/rnd/Downloads/work/Project/CRNN_Tensorflow_Car_number_plate/crnn_model/crnn_model.py:123: BasicLSTMCell.__init__ (from tensorflow.python.ops.rnn_cell_impl) is deprecated and will be removed in a future version.
+Instructions for updating:
+This class is deprecated, please use tf.nn.rnn_cell.LSTMCell, which supports all the feature this cell currently has. Please replace the existing code with tf.nn.rnn_cell.LSTMCell(name='basic_lstm_cell').
+WARNING: 10-25 14:26:54: tf_logging.py:125 * 140644986218240 From train_shadownet.py:130: start_queue_runners (from tensorflow.python.training.queue_runner_impl) is deprecated and will be removed in a future version.
+Instructions for updating:
+To construct input pipelines, use the `tf.data` module.
+WARNING: 10-25 14:58:45: tf_logging.py:125 * 139985563145984 From /usr/local/lib/python3.5/dist-packages/tensorflow/python/training/input.py:187: QueueRunner.__init__ (from tensorflow.python.training.queue_runner_impl) is deprecated and will be removed in a future version.
+Instructions for updating:
+To construct input pipelines, use the `tf.data` module.
+WARNING: 10-25 14:58:45: tf_logging.py:125 * 139985563145984 From /usr/local/lib/python3.5/dist-packages/tensorflow/python/training/input.py:187: add_queue_runner (from tensorflow.python.training.queue_runner_impl) is deprecated and will be removed in a future version.
+Instructions for updating:
+To construct input pipelines, use the `tf.data` module.
+WARNING: 10-25 14:58:46: tf_logging.py:125 * 139985563145984 From /home/rnd/Downloads/work/Project/CRNN_Tensorflow_Car_number_plate/crnn_model/crnn_model.py:123: BasicLSTMCell.__init__ (from tensorflow.python.ops.rnn_cell_impl) is deprecated and will be removed in a future version.
+Instructions for updating:
+This class is deprecated, please use tf.nn.rnn_cell.LSTMCell, which supports all the feature this cell currently has. Please replace the existing code with tf.nn.rnn_cell.LSTMCell(name='basic_lstm_cell').
+WARNING: 10-25 14:58:48: tf_logging.py:125 * 139985563145984 From train_shadownet.py:130: start_queue_runners (from tensorflow.python.training.queue_runner_impl) is deprecated and will be removed in a future version.
+Instructions for updating:
+To construct input pipelines, use the `tf.data` module.
+WARNING: 10-25 15:00:35: tf_logging.py:125 * 139869097027328 From /usr/local/lib/python3.5/dist-packages/tensorflow/python/training/input.py:187: QueueRunner.__init__ (from tensorflow.python.training.queue_runner_impl) is deprecated and will be removed in a future version.
+Instructions for updating:
+To construct input pipelines, use the `tf.data` module.
+WARNING: 10-25 15:00:35: tf_logging.py:125 * 139869097027328 From /usr/local/lib/python3.5/dist-packages/tensorflow/python/training/input.py:187: add_queue_runner (from tensorflow.python.training.queue_runner_impl) is deprecated and will be removed in a future version.
+Instructions for updating:
+To construct input pipelines, use the `tf.data` module.
+WARNING: 10-25 15:00:35: tf_logging.py:125 * 139869097027328 From /home/rnd/Downloads/work/Project/CRNN_Tensorflow_Car_number_plate/crnn_model/crnn_model.py:123: BasicLSTMCell.__init__ (from tensorflow.python.ops.rnn_cell_impl) is deprecated and will be removed in a future version.
+Instructions for updating:
+This class is deprecated, please use tf.nn.rnn_cell.LSTMCell, which supports all the feature this cell currently has. Please replace the existing code with tf.nn.rnn_cell.LSTMCell(name='basic_lstm_cell').
+WARNING: 10-25 15:00:37: tf_logging.py:125 * 139869097027328 From train_shadownet.py:130: start_queue_runners (from tensorflow.python.training.queue_runner_impl) is deprecated and will be removed in a future version.
+Instructions for updating:
+To construct input pipelines, use the `tf.data` module.
+WARNING: 10-25 15:09:23: tf_logging.py:125 * 139621882398464 From /usr/local/lib/python3.5/dist-packages/tensorflow/python/training/input.py:187: QueueRunner.__init__ (from tensorflow.python.training.queue_runner_impl) is deprecated and will be removed in a future version.
+Instructions for updating:
+To construct input pipelines, use the `tf.data` module.
+WARNING: 10-25 15:09:23: tf_logging.py:125 * 139621882398464 From /usr/local/lib/python3.5/dist-packages/tensorflow/python/training/input.py:187: add_queue_runner (from tensorflow.python.training.queue_runner_impl) is deprecated and will be removed in a future version.
+Instructions for updating:
+To construct input pipelines, use the `tf.data` module.
+WARNING: 10-25 15:09:23: tf_logging.py:125 * 139621882398464 From /home/rnd/Downloads/work/Project/CRNN_Tensorflow_Car_number_plate/crnn_model/crnn_model.py:123: BasicLSTMCell.__init__ (from tensorflow.python.ops.rnn_cell_impl) is deprecated and will be removed in a future version.
+Instructions for updating:
+This class is deprecated, please use tf.nn.rnn_cell.LSTMCell, which supports all the feature this cell currently has. Please replace the existing code with tf.nn.rnn_cell.LSTMCell(name='basic_lstm_cell').
+WARNING: 10-25 15:09:25: tf_logging.py:125 * 139621882398464 From train_shadownet.py:130: start_queue_runners (from tensorflow.python.training.queue_runner_impl) is deprecated and will be removed in a future version.
+Instructions for updating:
+To construct input pipelines, use the `tf.data` module.
+WARNING: 10-25 15:10:24: tf_logging.py:125 * 139733638379264 From /usr/local/lib/python3.5/dist-packages/tensorflow/python/training/input.py:187: QueueRunner.__init__ (from tensorflow.python.training.queue_runner_impl) is deprecated and will be removed in a future version.
+Instructions for updating:
+To construct input pipelines, use the `tf.data` module.
+WARNING: 10-25 15:10:24: tf_logging.py:125 * 139733638379264 From /usr/local/lib/python3.5/dist-packages/tensorflow/python/training/input.py:187: add_queue_runner (from tensorflow.python.training.queue_runner_impl) is deprecated and will be removed in a future version.
+Instructions for updating:
+To construct input pipelines, use the `tf.data` module.
+WARNING: 10-25 15:10:24: tf_logging.py:125 * 139733638379264 From /home/rnd/Downloads/work/Project/CRNN_Tensorflow_Car_number_plate/crnn_model/crnn_model.py:123: BasicLSTMCell.__init__ (from tensorflow.python.ops.rnn_cell_impl) is deprecated and will be removed in a future version.
+Instructions for updating:
+This class is deprecated, please use tf.nn.rnn_cell.LSTMCell, which supports all the feature this cell currently has. Please replace the existing code with tf.nn.rnn_cell.LSTMCell(name='basic_lstm_cell').
+WARNING: 10-25 15:10:25: tf_logging.py:125 * 139733638379264 From train_shadownet.py:130: start_queue_runners (from tensorflow.python.training.queue_runner_impl) is deprecated and will be removed in a future version.
+Instructions for updating:
+To construct input pipelines, use the `tf.data` module.
+WARNING: 10-25 15:24:11: tf_logging.py:125 * 139891222071040 From /usr/local/lib/python3.5/dist-packages/tensorflow/python/training/input.py:187: QueueRunner.__init__ (from tensorflow.python.training.queue_runner_impl) is deprecated and will be removed in a future version.
+Instructions for updating:
+To construct input pipelines, use the `tf.data` module.
+WARNING: 10-25 15:24:11: tf_logging.py:125 * 139891222071040 From /usr/local/lib/python3.5/dist-packages/tensorflow/python/training/input.py:187: add_queue_runner (from tensorflow.python.training.queue_runner_impl) is deprecated and will be removed in a future version.
+Instructions for updating:
+To construct input pipelines, use the `tf.data` module.
+WARNING: 10-25 15:24:12: tf_logging.py:125 * 139891222071040 From /home/rnd/Downloads/work/Project/CRNN_Tensorflow_Car_number_plate/crnn_model/crnn_model.py:123: BasicLSTMCell.__init__ (from tensorflow.python.ops.rnn_cell_impl) is deprecated and will be removed in a future version.
+Instructions for updating:
+This class is deprecated, please use tf.nn.rnn_cell.LSTMCell, which supports all the feature this cell currently has. Please replace the existing code with tf.nn.rnn_cell.LSTMCell(name='basic_lstm_cell').
+WARNING: 10-25 15:24:13: tf_logging.py:125 * 139891222071040 From train_shadownet.py:130: start_queue_runners (from tensorflow.python.training.queue_runner_impl) is deprecated and will be removed in a future version.
+Instructions for updating:
+To construct input pipelines, use the `tf.data` module.
+WARNING: 10-25 15:26:09: tf_logging.py:125 * 140603558061824 From /usr/local/lib/python3.5/dist-packages/tensorflow/python/training/input.py:187: QueueRunner.__init__ (from tensorflow.python.training.queue_runner_impl) is deprecated and will be removed in a future version.
+Instructions for updating:
+To construct input pipelines, use the `tf.data` module.
+WARNING: 10-25 15:26:09: tf_logging.py:125 * 140603558061824 From /usr/local/lib/python3.5/dist-packages/tensorflow/python/training/input.py:187: add_queue_runner (from tensorflow.python.training.queue_runner_impl) is deprecated and will be removed in a future version.
+Instructions for updating:
+To construct input pipelines, use the `tf.data` module.
+WARNING: 10-25 15:26:10: tf_logging.py:125 * 140603558061824 From /home/rnd/Downloads/work/Project/CRNN_Tensorflow_Car_number_plate/crnn_model/crnn_model.py:123: BasicLSTMCell.__init__ (from tensorflow.python.ops.rnn_cell_impl) is deprecated and will be removed in a future version.
+Instructions for updating:
+This class is deprecated, please use tf.nn.rnn_cell.LSTMCell, which supports all the feature this cell currently has. Please replace the existing code with tf.nn.rnn_cell.LSTMCell(name='basic_lstm_cell').
+WARNING: 10-25 15:26:48: tf_logging.py:125 * 139819473553152 From /usr/local/lib/python3.5/dist-packages/tensorflow/python/training/input.py:187: QueueRunner.__init__ (from tensorflow.python.training.queue_runner_impl) is deprecated and will be removed in a future version.
+Instructions for updating:
+To construct input pipelines, use the `tf.data` module.
+WARNING: 10-25 15:26:48: tf_logging.py:125 * 139819473553152 From /usr/local/lib/python3.5/dist-packages/tensorflow/python/training/input.py:187: add_queue_runner (from tensorflow.python.training.queue_runner_impl) is deprecated and will be removed in a future version.
+Instructions for updating:
+To construct input pipelines, use the `tf.data` module.
+WARNING: 10-25 15:26:48: tf_logging.py:125 * 139819473553152 From /home/rnd/Downloads/work/Project/CRNN_Tensorflow_Car_number_plate/crnn_model/crnn_model.py:123: BasicLSTMCell.__init__ (from tensorflow.python.ops.rnn_cell_impl) is deprecated and will be removed in a future version.
+Instructions for updating:
+This class is deprecated, please use tf.nn.rnn_cell.LSTMCell, which supports all the feature this cell currently has. Please replace the existing code with tf.nn.rnn_cell.LSTMCell(name='basic_lstm_cell').
+WARNING: 10-25 15:26:49: tf_logging.py:125 * 139819473553152 From train_shadownet.py:130: start_queue_runners (from tensorflow.python.training.queue_runner_impl) is deprecated and will be removed in a future version.
+Instructions for updating:
+To construct input pipelines, use the `tf.data` module.
+WARNING: 10-25 15:29:05: tf_logging.py:125 * 140671878940416 From /usr/local/lib/python3.5/dist-packages/tensorflow/python/training/input.py:187: QueueRunner.__init__ (from tensorflow.python.training.queue_runner_impl) is deprecated and will be removed in a future version.
+Instructions for updating:
+To construct input pipelines, use the `tf.data` module.
+WARNING: 10-25 15:29:05: tf_logging.py:125 * 140671878940416 From /usr/local/lib/python3.5/dist-packages/tensorflow/python/training/input.py:187: add_queue_runner (from tensorflow.python.training.queue_runner_impl) is deprecated and will be removed in a future version.
+Instructions for updating:
+To construct input pipelines, use the `tf.data` module.
+WARNING: 10-25 15:29:05: tf_logging.py:125 * 140671878940416 From /home/rnd/Downloads/work/Project/CRNN_Tensorflow_Car_number_plate/crnn_model/crnn_model.py:123: BasicLSTMCell.__init__ (from tensorflow.python.ops.rnn_cell_impl) is deprecated and will be removed in a future version.
+Instructions for updating:
+This class is deprecated, please use tf.nn.rnn_cell.LSTMCell, which supports all the feature this cell currently has. Please replace the existing code with tf.nn.rnn_cell.LSTMCell(name='basic_lstm_cell').
+WARNING: 10-25 15:29:07: tf_logging.py:125 * 140671878940416 From train_shadownet.py:130: start_queue_runners (from tensorflow.python.training.queue_runner_impl) is deprecated and will be removed in a future version.
+Instructions for updating:
+To construct input pipelines, use the `tf.data` module.
+WARNING: 10-25 15:35:07: tf_logging.py:125 * 140600367429376 From /usr/local/lib/python3.5/dist-packages/tensorflow/python/training/input.py:187: QueueRunner.__init__ (from tensorflow.python.training.queue_runner_impl) is deprecated and will be removed in a future version.
+Instructions for updating:
+To construct input pipelines, use the `tf.data` module.
+WARNING: 10-25 15:35:07: tf_logging.py:125 * 140600367429376 From /usr/local/lib/python3.5/dist-packages/tensorflow/python/training/input.py:187: add_queue_runner (from tensorflow.python.training.queue_runner_impl) is deprecated and will be removed in a future version.
+Instructions for updating:
+To construct input pipelines, use the `tf.data` module.
+WARNING: 10-25 15:35:07: tf_logging.py:125 * 140600367429376 From /home/rnd/Downloads/work/Project/CRNN_Tensorflow_Car_number_plate/crnn_model/crnn_model.py:123: BasicLSTMCell.__init__ (from tensorflow.python.ops.rnn_cell_impl) is deprecated and will be removed in a future version.
+Instructions for updating:
+This class is deprecated, please use tf.nn.rnn_cell.LSTMCell, which supports all the feature this cell currently has. Please replace the existing code with tf.nn.rnn_cell.LSTMCell(name='basic_lstm_cell').
+WARNING: 10-25 15:35:09: tf_logging.py:125 * 140600367429376 From train_shadownet.py:130: start_queue_runners (from tensorflow.python.training.queue_runner_impl) is deprecated and will be removed in a future version.
+Instructions for updating:
+To construct input pipelines, use the `tf.data` module.
+WARNING: 10-25 15:38:02: tf_logging.py:125 * 139683953854208 From /usr/local/lib/python3.5/dist-packages/tensorflow/python/training/input.py:187: QueueRunner.__init__ (from tensorflow.python.training.queue_runner_impl) is deprecated and will be removed in a future version.
+Instructions for updating:
+To construct input pipelines, use the `tf.data` module.
+WARNING: 10-25 15:38:02: tf_logging.py:125 * 139683953854208 From /usr/local/lib/python3.5/dist-packages/tensorflow/python/training/input.py:187: add_queue_runner (from tensorflow.python.training.queue_runner_impl) is deprecated and will be removed in a future version.
+Instructions for updating:
+To construct input pipelines, use the `tf.data` module.
+WARNING: 10-25 15:38:02: tf_logging.py:125 * 139683953854208 From /home/rnd/Downloads/work/Project/CRNN_Tensorflow_Car_number_plate/crnn_model/crnn_model.py:123: BasicLSTMCell.__init__ (from tensorflow.python.ops.rnn_cell_impl) is deprecated and will be removed in a future version.
+Instructions for updating:
+This class is deprecated, please use tf.nn.rnn_cell.LSTMCell, which supports all the feature this cell currently has. Please replace the existing code with tf.nn.rnn_cell.LSTMCell(name='basic_lstm_cell').
+WARNING: 10-25 15:38:03: tf_logging.py:125 * 139683953854208 From train_shadownet.py:130: start_queue_runners (from tensorflow.python.training.queue_runner_impl) is deprecated and will be removed in a future version.
+Instructions for updating:
+To construct input pipelines, use the `tf.data` module.
+WARNING: 10-25 16:17:58: tf_logging.py:125 * 140007229585152 From /usr/local/lib/python3.5/dist-packages/tensorflow/python/training/input.py:187: QueueRunner.__init__ (from tensorflow.python.training.queue_runner_impl) is deprecated and will be removed in a future version.
+Instructions for updating:
+To construct input pipelines, use the `tf.data` module.
+WARNING: 10-25 16:17:58: tf_logging.py:125 * 140007229585152 From /usr/local/lib/python3.5/dist-packages/tensorflow/python/training/input.py:187: add_queue_runner (from tensorflow.python.training.queue_runner_impl) is deprecated and will be removed in a future version.
+Instructions for updating:
+To construct input pipelines, use the `tf.data` module.
+WARNING: 10-25 16:17:58: tf_logging.py:125 * 140007229585152 From /home/rnd/Downloads/work/Project/CRNN_Tensorflow_Car_number_plate/crnn_model/crnn_model.py:123: BasicLSTMCell.__init__ (from tensorflow.python.ops.rnn_cell_impl) is deprecated and will be removed in a future version.
+Instructions for updating:
+This class is deprecated, please use tf.nn.rnn_cell.LSTMCell, which supports all the feature this cell currently has. Please replace the existing code with tf.nn.rnn_cell.LSTMCell(name='basic_lstm_cell').
+WARNING: 10-25 16:18:00: tf_logging.py:125 * 140007229585152 From train_shadownet.py:130: start_queue_runners (from tensorflow.python.training.queue_runner_impl) is deprecated and will be removed in a future version.
+Instructions for updating:
+To construct input pipelines, use the `tf.data` module.
+WARNING: 10-25 16:19:14: tf_logging.py:125 * 140518424000256 From /usr/local/lib/python3.5/dist-packages/tensorflow/python/training/input.py:187: QueueRunner.__init__ (from tensorflow.python.training.queue_runner_impl) is deprecated and will be removed in a future version.
+Instructions for updating:
+To construct input pipelines, use the `tf.data` module.
+WARNING: 10-25 16:19:14: tf_logging.py:125 * 140518424000256 From /usr/local/lib/python3.5/dist-packages/tensorflow/python/training/input.py:187: add_queue_runner (from tensorflow.python.training.queue_runner_impl) is deprecated and will be removed in a future version.
+Instructions for updating:
+To construct input pipelines, use the `tf.data` module.
+WARNING: 10-25 16:19:14: tf_logging.py:125 * 140518424000256 From /home/rnd/Downloads/work/Project/CRNN_Tensorflow_Car_number_plate/crnn_model/crnn_model.py:123: BasicLSTMCell.__init__ (from tensorflow.python.ops.rnn_cell_impl) is deprecated and will be removed in a future version.
+Instructions for updating:
+This class is deprecated, please use tf.nn.rnn_cell.LSTMCell, which supports all the feature this cell currently has. Please replace the existing code with tf.nn.rnn_cell.LSTMCell(name='basic_lstm_cell').
+WARNING: 10-25 16:19:16: tf_logging.py:125 * 140518424000256 From train_shadownet.py:130: start_queue_runners (from tensorflow.python.training.queue_runner_impl) is deprecated and will be removed in a future version.
+Instructions for updating:
+To construct input pipelines, use the `tf.data` module.
+WARNING: 10-25 16:24:01: tf_logging.py:125 * 140366416365312 From /home/rnd/Downloads/work/Project/CRNN_Tensorflow_Car_number_plate/crnn_model/crnn_model.py:123: BasicLSTMCell.__init__ (from tensorflow.python.ops.rnn_cell_impl) is deprecated and will be removed in a future version.
+Instructions for updating:
+This class is deprecated, please use tf.nn.rnn_cell.LSTMCell, which supports all the feature this cell currently has. Please replace the existing code with tf.nn.rnn_cell.LSTMCell(name='basic_lstm_cell').
+WARNING: 10-25 16:24:38: tf_logging.py:125 * 139776635074304 From /home/rnd/Downloads/work/Project/CRNN_Tensorflow_Car_number_plate/crnn_model/crnn_model.py:123: BasicLSTMCell.__init__ (from tensorflow.python.ops.rnn_cell_impl) is deprecated and will be removed in a future version.
+Instructions for updating:
+This class is deprecated, please use tf.nn.rnn_cell.LSTMCell, which supports all the feature this cell currently has. Please replace the existing code with tf.nn.rnn_cell.LSTMCell(name='basic_lstm_cell').
+WARNING: 10-25 16:25:13: tf_logging.py:125 * 140249454098176 From /home/rnd/Downloads/work/Project/CRNN_Tensorflow_Car_number_plate/crnn_model/crnn_model.py:123: BasicLSTMCell.__init__ (from tensorflow.python.ops.rnn_cell_impl) is deprecated and will be removed in a future version.
+Instructions for updating:
+This class is deprecated, please use tf.nn.rnn_cell.LSTMCell, which supports all the feature this cell currently has. Please replace the existing code with tf.nn.rnn_cell.LSTMCell(name='basic_lstm_cell').
+WARNING: 10-25 16:25:54: tf_logging.py:125 * 140484311234304 From /home/rnd/Downloads/work/Project/CRNN_Tensorflow_Car_number_plate/crnn_model/crnn_model.py:123: BasicLSTMCell.__init__ (from tensorflow.python.ops.rnn_cell_impl) is deprecated and will be removed in a future version.
+Instructions for updating:
+This class is deprecated, please use tf.nn.rnn_cell.LSTMCell, which supports all the feature this cell currently has. Please replace the existing code with tf.nn.rnn_cell.LSTMCell(name='basic_lstm_cell').
+WARNING: 10-25 16:26:33: tf_logging.py:125 * 140237167277824 From /home/rnd/Downloads/work/Project/CRNN_Tensorflow_Car_number_plate/crnn_model/crnn_model.py:123: BasicLSTMCell.__init__ (from tensorflow.python.ops.rnn_cell_impl) is deprecated and will be removed in a future version.
+Instructions for updating:
+This class is deprecated, please use tf.nn.rnn_cell.LSTMCell, which supports all the feature this cell currently has. Please replace the existing code with tf.nn.rnn_cell.LSTMCell(name='basic_lstm_cell').
+WARNING: 10-26 10:23:55: tf_logging.py:125 * 139831515891456 From /usr/local/lib/python3.5/dist-packages/tensorflow/python/training/input.py:187: QueueRunner.__init__ (from tensorflow.python.training.queue_runner_impl) is deprecated and will be removed in a future version.
+Instructions for updating:
+To construct input pipelines, use the `tf.data` module.
+WARNING: 10-26 10:23:55: tf_logging.py:125 * 139831515891456 From /usr/local/lib/python3.5/dist-packages/tensorflow/python/training/input.py:187: add_queue_runner (from tensorflow.python.training.queue_runner_impl) is deprecated and will be removed in a future version.
+Instructions for updating:
+To construct input pipelines, use the `tf.data` module.
+WARNING: 10-26 10:23:55: tf_logging.py:125 * 139831515891456 From /home/rnd/Downloads/work/Project/CRNN_Tensorflow_Car_number_plate_version_2.0/crnn_model/crnn_model.py:123: BasicLSTMCell.__init__ (from tensorflow.python.ops.rnn_cell_impl) is deprecated and will be removed in a future version.
+Instructions for updating:
+This class is deprecated, please use tf.nn.rnn_cell.LSTMCell, which supports all the feature this cell currently has. Please replace the existing code with tf.nn.rnn_cell.LSTMCell(name='basic_lstm_cell').
+WARNING: 10-26 10:24:05: tf_logging.py:125 * 139831515891456 From train_shadownet.py:130: start_queue_runners (from tensorflow.python.training.queue_runner_impl) is deprecated and will be removed in a future version.
+Instructions for updating:
+To construct input pipelines, use the `tf.data` module.
+WARNING: 10-26 10:31:58: tf_logging.py:125 * 140585914464000 From /home/rnd/Downloads/work/Project/CRNN_Tensorflow_Car_number_plate_version_2.0/crnn_model/crnn_model.py:123: BasicLSTMCell.__init__ (from tensorflow.python.ops.rnn_cell_impl) is deprecated and will be removed in a future version.
+Instructions for updating:
+This class is deprecated, please use tf.nn.rnn_cell.LSTMCell, which supports all the feature this cell currently has. Please replace the existing code with tf.nn.rnn_cell.LSTMCell(name='basic_lstm_cell').
+WARNING: 10-26 10:32:15: tf_logging.py:125 * 139955467253504 From /home/rnd/Downloads/work/Project/CRNN_Tensorflow_Car_number_plate_version_2.0/crnn_model/crnn_model.py:123: BasicLSTMCell.__init__ (from tensorflow.python.ops.rnn_cell_impl) is deprecated and will be removed in a future version.
+Instructions for updating:
+This class is deprecated, please use tf.nn.rnn_cell.LSTMCell, which supports all the feature this cell currently has. Please replace the existing code with tf.nn.rnn_cell.LSTMCell(name='basic_lstm_cell').
+WARNING: 10-26 10:32:41: tf_logging.py:125 * 140092016342784 From /home/rnd/Downloads/work/Project/CRNN_Tensorflow_Car_number_plate_version_2.0/crnn_model/crnn_model.py:123: BasicLSTMCell.__init__ (from tensorflow.python.ops.rnn_cell_impl) is deprecated and will be removed in a future version.
+Instructions for updating:
+This class is deprecated, please use tf.nn.rnn_cell.LSTMCell, which supports all the feature this cell currently has. Please replace the existing code with tf.nn.rnn_cell.LSTMCell(name='basic_lstm_cell').
+WARNING: 10-26 10:44:52: tf_logging.py:125 * 139874110150400 From /usr/local/lib/python3.5/dist-packages/tensorflow/python/training/input.py:187: QueueRunner.__init__ (from tensorflow.python.training.queue_runner_impl) is deprecated and will be removed in a future version.
+Instructions for updating:
+To construct input pipelines, use the `tf.data` module.
+WARNING: 10-26 10:44:52: tf_logging.py:125 * 139874110150400 From /usr/local/lib/python3.5/dist-packages/tensorflow/python/training/input.py:187: add_queue_runner (from tensorflow.python.training.queue_runner_impl) is deprecated and will be removed in a future version.
+Instructions for updating:
+To construct input pipelines, use the `tf.data` module.
+WARNING: 10-26 10:44:52: tf_logging.py:125 * 139874110150400 From /home/rnd/Downloads/work/Project/CRNN_Tensorflow_Car_number_plate_version_2.0/crnn_model/crnn_model.py:123: BasicLSTMCell.__init__ (from tensorflow.python.ops.rnn_cell_impl) is deprecated and will be removed in a future version.
+Instructions for updating:
+This class is deprecated, please use tf.nn.rnn_cell.LSTMCell, which supports all the feature this cell currently has. Please replace the existing code with tf.nn.rnn_cell.LSTMCell(name='basic_lstm_cell').
+WARNING: 10-26 10:44:59: tf_logging.py:125 * 139905841325824 From /usr/local/lib/python3.5/dist-packages/tensorflow/python/training/input.py:187: QueueRunner.__init__ (from tensorflow.python.training.queue_runner_impl) is deprecated and will be removed in a future version.
+Instructions for updating:
+To construct input pipelines, use the `tf.data` module.
+WARNING: 10-26 10:44:59: tf_logging.py:125 * 139905841325824 From /usr/local/lib/python3.5/dist-packages/tensorflow/python/training/input.py:187: add_queue_runner (from tensorflow.python.training.queue_runner_impl) is deprecated and will be removed in a future version.
+Instructions for updating:
+To construct input pipelines, use the `tf.data` module.
+WARNING: 10-26 10:44:59: tf_logging.py:125 * 139905841325824 From /home/rnd/Downloads/work/Project/CRNN_Tensorflow_Car_number_plate_version_2.0/crnn_model/crnn_model.py:123: BasicLSTMCell.__init__ (from tensorflow.python.ops.rnn_cell_impl) is deprecated and will be removed in a future version.
+Instructions for updating:
+This class is deprecated, please use tf.nn.rnn_cell.LSTMCell, which supports all the feature this cell currently has. Please replace the existing code with tf.nn.rnn_cell.LSTMCell(name='basic_lstm_cell').
+WARNING: 10-26 10:45:00: tf_logging.py:125 * 139905841325824 From train_shadownet.py:130: start_queue_runners (from tensorflow.python.training.queue_runner_impl) is deprecated and will be removed in a future version.
+Instructions for updating:
+To construct input pipelines, use the `tf.data` module.
+WARNING: 10-26 10:51:22: tf_logging.py:125 * 140526224676608 From /usr/local/lib/python3.5/dist-packages/tensorflow/python/training/input.py:187: QueueRunner.__init__ (from tensorflow.python.training.queue_runner_impl) is deprecated and will be removed in a future version.
+Instructions for updating:
+To construct input pipelines, use the `tf.data` module.
+WARNING: 10-26 10:51:22: tf_logging.py:125 * 140526224676608 From /usr/local/lib/python3.5/dist-packages/tensorflow/python/training/input.py:187: add_queue_runner (from tensorflow.python.training.queue_runner_impl) is deprecated and will be removed in a future version.
+Instructions for updating:
+To construct input pipelines, use the `tf.data` module.
+WARNING: 10-26 10:51:22: tf_logging.py:125 * 140526224676608 From /home/rnd/Downloads/work/Project/CRNN_Tensorflow_Car_number_plate_version_2.0/crnn_model/crnn_model.py:123: BasicLSTMCell.__init__ (from tensorflow.python.ops.rnn_cell_impl) is deprecated and will be removed in a future version.
+Instructions for updating:
+This class is deprecated, please use tf.nn.rnn_cell.LSTMCell, which supports all the feature this cell currently has. Please replace the existing code with tf.nn.rnn_cell.LSTMCell(name='basic_lstm_cell').
+WARNING: 10-26 10:51:23: tf_logging.py:125 * 140526224676608 From train_shadownet.py:130: start_queue_runners (from tensorflow.python.training.queue_runner_impl) is deprecated and will be removed in a future version.
+Instructions for updating:
+To construct input pipelines, use the `tf.data` module.
+WARNING: 10-26 10:55:01: tf_logging.py:125 * 140438717396736 From /usr/local/lib/python3.5/dist-packages/tensorflow/python/training/input.py:187: QueueRunner.__init__ (from tensorflow.python.training.queue_runner_impl) is deprecated and will be removed in a future version.
+Instructions for updating:
+To construct input pipelines, use the `tf.data` module.
+WARNING: 10-26 10:55:01: tf_logging.py:125 * 140438717396736 From /usr/local/lib/python3.5/dist-packages/tensorflow/python/training/input.py:187: add_queue_runner (from tensorflow.python.training.queue_runner_impl) is deprecated and will be removed in a future version.
+Instructions for updating:
+To construct input pipelines, use the `tf.data` module.
+WARNING: 10-26 10:55:01: tf_logging.py:125 * 140438717396736 From /home/rnd/Downloads/work/Project/CRNN_Tensorflow_Car_number_plate_version_2.0/crnn_model/crnn_model.py:123: BasicLSTMCell.__init__ (from tensorflow.python.ops.rnn_cell_impl) is deprecated and will be removed in a future version.
+Instructions for updating:
+This class is deprecated, please use tf.nn.rnn_cell.LSTMCell, which supports all the feature this cell currently has. Please replace the existing code with tf.nn.rnn_cell.LSTMCell(name='basic_lstm_cell').
+WARNING: 10-26 10:55:02: tf_logging.py:125 * 140438717396736 From train_shadownet.py:130: start_queue_runners (from tensorflow.python.training.queue_runner_impl) is deprecated and will be removed in a future version.
+Instructions for updating:
+To construct input pipelines, use the `tf.data` module.
+WARNING: 10-26 11:01:18: tf_logging.py:125 * 140377917359872 From /home/rnd/Downloads/work/Project/CRNN_Tensorflow_Car_number_plate_version_2.0/crnn_model/crnn_model.py:123: BasicLSTMCell.__init__ (from tensorflow.python.ops.rnn_cell_impl) is deprecated and will be removed in a future version.
+Instructions for updating:
+This class is deprecated, please use tf.nn.rnn_cell.LSTMCell, which supports all the feature this cell currently has. Please replace the existing code with tf.nn.rnn_cell.LSTMCell(name='basic_lstm_cell').
+WARNING: 10-26 11:01:40: tf_logging.py:125 * 140116144404224 From /home/rnd/Downloads/work/Project/CRNN_Tensorflow_Car_number_plate_version_2.0/crnn_model/crnn_model.py:123: BasicLSTMCell.__init__ (from tensorflow.python.ops.rnn_cell_impl) is deprecated and will be removed in a future version.
+Instructions for updating:
+This class is deprecated, please use tf.nn.rnn_cell.LSTMCell, which supports all the feature this cell currently has. Please replace the existing code with tf.nn.rnn_cell.LSTMCell(name='basic_lstm_cell').
+WARNING: 10-26 11:02:23: tf_logging.py:125 * 140648260523776 From /home/rnd/Downloads/work/Project/CRNN_Tensorflow_Car_number_plate_version_2.0/crnn_model/crnn_model.py:123: BasicLSTMCell.__init__ (from tensorflow.python.ops.rnn_cell_impl) is deprecated and will be removed in a future version.
+Instructions for updating:
+This class is deprecated, please use tf.nn.rnn_cell.LSTMCell, which supports all the feature this cell currently has. Please replace the existing code with tf.nn.rnn_cell.LSTMCell(name='basic_lstm_cell').
+WARNING: 10-26 11:10:27: tf_logging.py:125 * 140016246105856 From /usr/local/lib/python3.5/dist-packages/tensorflow/python/training/input.py:187: QueueRunner.__init__ (from tensorflow.python.training.queue_runner_impl) is deprecated and will be removed in a future version.
+Instructions for updating:
+To construct input pipelines, use the `tf.data` module.
+WARNING: 10-26 11:10:27: tf_logging.py:125 * 140016246105856 From /usr/local/lib/python3.5/dist-packages/tensorflow/python/training/input.py:187: add_queue_runner (from tensorflow.python.training.queue_runner_impl) is deprecated and will be removed in a future version.
+Instructions for updating:
+To construct input pipelines, use the `tf.data` module.
+WARNING: 10-26 11:10:27: tf_logging.py:125 * 140016246105856 From /home/rnd/Downloads/work/Project/CRNN_Tensorflow_Car_number_plate_version_2.0/crnn_model/crnn_model.py:123: BasicLSTMCell.__init__ (from tensorflow.python.ops.rnn_cell_impl) is deprecated and will be removed in a future version.
+Instructions for updating:
+This class is deprecated, please use tf.nn.rnn_cell.LSTMCell, which supports all the feature this cell currently has. Please replace the existing code with tf.nn.rnn_cell.LSTMCell(name='basic_lstm_cell').
+WARNING: 10-26 11:10:33: tf_logging.py:125 * 139919853315840 From /usr/local/lib/python3.5/dist-packages/tensorflow/python/training/input.py:187: QueueRunner.__init__ (from tensorflow.python.training.queue_runner_impl) is deprecated and will be removed in a future version.
+Instructions for updating:
+To construct input pipelines, use the `tf.data` module.
+WARNING: 10-26 11:10:33: tf_logging.py:125 * 139919853315840 From /usr/local/lib/python3.5/dist-packages/tensorflow/python/training/input.py:187: add_queue_runner (from tensorflow.python.training.queue_runner_impl) is deprecated and will be removed in a future version.
+Instructions for updating:
+To construct input pipelines, use the `tf.data` module.
+WARNING: 10-26 11:10:33: tf_logging.py:125 * 139919853315840 From /home/rnd/Downloads/work/Project/CRNN_Tensorflow_Car_number_plate_version_2.0/crnn_model/crnn_model.py:123: BasicLSTMCell.__init__ (from tensorflow.python.ops.rnn_cell_impl) is deprecated and will be removed in a future version.
+Instructions for updating:
+This class is deprecated, please use tf.nn.rnn_cell.LSTMCell, which supports all the feature this cell currently has. Please replace the existing code with tf.nn.rnn_cell.LSTMCell(name='basic_lstm_cell').
+WARNING: 10-26 11:10:34: tf_logging.py:125 * 139919853315840 From train_shadownet.py:130: start_queue_runners (from tensorflow.python.training.queue_runner_impl) is deprecated and will be removed in a future version.
+Instructions for updating:
+To construct input pipelines, use the `tf.data` module.
+WARNING: 10-26 11:12:25: tf_logging.py:125 * 140475055171328 From /usr/local/lib/python3.5/dist-packages/tensorflow/python/training/input.py:187: QueueRunner.__init__ (from tensorflow.python.training.queue_runner_impl) is deprecated and will be removed in a future version.
+Instructions for updating:
+To construct input pipelines, use the `tf.data` module.
+WARNING: 10-26 11:12:25: tf_logging.py:125 * 140475055171328 From /usr/local/lib/python3.5/dist-packages/tensorflow/python/training/input.py:187: add_queue_runner (from tensorflow.python.training.queue_runner_impl) is deprecated and will be removed in a future version.
+Instructions for updating:
+To construct input pipelines, use the `tf.data` module.
+WARNING: 10-26 11:12:25: tf_logging.py:125 * 140475055171328 From /home/rnd/Downloads/work/Project/CRNN_Tensorflow_Car_number_plate_version_2.0/crnn_model/crnn_model.py:123: BasicLSTMCell.__init__ (from tensorflow.python.ops.rnn_cell_impl) is deprecated and will be removed in a future version.
+Instructions for updating:
+This class is deprecated, please use tf.nn.rnn_cell.LSTMCell, which supports all the feature this cell currently has. Please replace the existing code with tf.nn.rnn_cell.LSTMCell(name='basic_lstm_cell').
+WARNING: 10-26 11:12:26: tf_logging.py:125 * 140475055171328 From train_shadownet.py:130: start_queue_runners (from tensorflow.python.training.queue_runner_impl) is deprecated and will be removed in a future version.
+Instructions for updating:
+To construct input pipelines, use the `tf.data` module.
+WARNING: 10-26 11:16:29: tf_logging.py:125 * 139993067980544 From /home/rnd/Downloads/work/Project/CRNN_Tensorflow_Car_number_plate_version_2.0/crnn_model/crnn_model.py:123: BasicLSTMCell.__init__ (from tensorflow.python.ops.rnn_cell_impl) is deprecated and will be removed in a future version.
+Instructions for updating:
+This class is deprecated, please use tf.nn.rnn_cell.LSTMCell, which supports all the feature this cell currently has. Please replace the existing code with tf.nn.rnn_cell.LSTMCell(name='basic_lstm_cell').
+WARNING: 10-26 11:16:49: tf_logging.py:125 * 139815947040512 From /home/rnd/Downloads/work/Project/CRNN_Tensorflow_Car_number_plate_version_2.0/crnn_model/crnn_model.py:123: BasicLSTMCell.__init__ (from tensorflow.python.ops.rnn_cell_impl) is deprecated and will be removed in a future version.
+Instructions for updating:
+This class is deprecated, please use tf.nn.rnn_cell.LSTMCell, which supports all the feature this cell currently has. Please replace the existing code with tf.nn.rnn_cell.LSTMCell(name='basic_lstm_cell').
+WARNING: 10-26 11:19:37: tf_logging.py:125 * 140066693547776 From /home/rnd/Downloads/work/Project/CRNN_Tensorflow_Car_number_plate_version_2.0/crnn_model/crnn_model.py:123: BasicLSTMCell.__init__ (from tensorflow.python.ops.rnn_cell_impl) is deprecated and will be removed in a future version.
+Instructions for updating:
+This class is deprecated, please use tf.nn.rnn_cell.LSTMCell, which supports all the feature this cell currently has. Please replace the existing code with tf.nn.rnn_cell.LSTMCell(name='basic_lstm_cell').
+WARNING: 10-26 11:48:06: tf_logging.py:125 * 140643740157696 From /home/rnd/Downloads/work/Project/CRNN_Tensorflow_Car_number_plate_version_2.0/crnn_model/crnn_model.py:123: BasicLSTMCell.__init__ (from tensorflow.python.ops.rnn_cell_impl) is deprecated and will be removed in a future version.
+Instructions for updating:
+This class is deprecated, please use tf.nn.rnn_cell.LSTMCell, which supports all the feature this cell currently has. Please replace the existing code with tf.nn.rnn_cell.LSTMCell(name='basic_lstm_cell').
+WARNING: 10-26 11:48:22: tf_logging.py:125 * 139685440993024 From /home/rnd/Downloads/work/Project/CRNN_Tensorflow_Car_number_plate_version_2.0/crnn_model/crnn_model.py:123: BasicLSTMCell.__init__ (from tensorflow.python.ops.rnn_cell_impl) is deprecated and will be removed in a future version.
+Instructions for updating:
+This class is deprecated, please use tf.nn.rnn_cell.LSTMCell, which supports all the feature this cell currently has. Please replace the existing code with tf.nn.rnn_cell.LSTMCell(name='basic_lstm_cell').
+WARNING: 10-26 11:57:09: tf_logging.py:125 * 139843210655488 From /usr/local/lib/python3.5/dist-packages/tensorflow/python/training/input.py:187: QueueRunner.__init__ (from tensorflow.python.training.queue_runner_impl) is deprecated and will be removed in a future version.
+Instructions for updating:
+To construct input pipelines, use the `tf.data` module.
+WARNING: 10-26 11:57:09: tf_logging.py:125 * 139843210655488 From /usr/local/lib/python3.5/dist-packages/tensorflow/python/training/input.py:187: add_queue_runner (from tensorflow.python.training.queue_runner_impl) is deprecated and will be removed in a future version.
+Instructions for updating:
+To construct input pipelines, use the `tf.data` module.
+WARNING: 10-26 11:57:10: tf_logging.py:125 * 139843210655488 From /home/rnd/Downloads/work/Project/CRNN_Tensorflow_Car_number_plate_version_2.0/crnn_model/crnn_model.py:123: BasicLSTMCell.__init__ (from tensorflow.python.ops.rnn_cell_impl) is deprecated and will be removed in a future version.
+Instructions for updating:
+This class is deprecated, please use tf.nn.rnn_cell.LSTMCell, which supports all the feature this cell currently has. Please replace the existing code with tf.nn.rnn_cell.LSTMCell(name='basic_lstm_cell').
+WARNING: 10-26 11:57:16: tf_logging.py:125 * 139843210655488 From train_shadownet.py:130: start_queue_runners (from tensorflow.python.training.queue_runner_impl) is deprecated and will be removed in a future version.
+Instructions for updating:
+To construct input pipelines, use the `tf.data` module.
+WARNING: 10-26 12:08:19: tf_logging.py:125 * 140326460450560 From /home/rnd/Downloads/work/Project/CRNN_Tensorflow_Car_number_plate_version_2.0/crnn_model/crnn_model.py:123: BasicLSTMCell.__init__ (from tensorflow.python.ops.rnn_cell_impl) is deprecated and will be removed in a future version.
+Instructions for updating:
+This class is deprecated, please use tf.nn.rnn_cell.LSTMCell, which supports all the feature this cell currently has. Please replace the existing code with tf.nn.rnn_cell.LSTMCell(name='basic_lstm_cell').
+WARNING: 10-26 12:08:28: tf_logging.py:125 * 139766544406272 From /home/rnd/Downloads/work/Project/CRNN_Tensorflow_Car_number_plate_version_2.0/crnn_model/crnn_model.py:123: BasicLSTMCell.__init__ (from tensorflow.python.ops.rnn_cell_impl) is deprecated and will be removed in a future version.
+Instructions for updating:
+This class is deprecated, please use tf.nn.rnn_cell.LSTMCell, which supports all the feature this cell currently has. Please replace the existing code with tf.nn.rnn_cell.LSTMCell(name='basic_lstm_cell').
+WARNING: 10-26 12:08:43: tf_logging.py:125 * 139699517011712 From /home/rnd/Downloads/work/Project/CRNN_Tensorflow_Car_number_plate_version_2.0/crnn_model/crnn_model.py:123: BasicLSTMCell.__init__ (from tensorflow.python.ops.rnn_cell_impl) is deprecated and will be removed in a future version.
+Instructions for updating:
+This class is deprecated, please use tf.nn.rnn_cell.LSTMCell, which supports all the feature this cell currently has. Please replace the existing code with tf.nn.rnn_cell.LSTMCell(name='basic_lstm_cell').
+WARNING: 10-26 12:55:56: tf_logging.py:125 * 140000244815616 From /home/rnd/Downloads/work/Project/CRNN_Tensorflow_Car_number_plate_version_3.0/crnn_model/crnn_model.py:123: BasicLSTMCell.__init__ (from tensorflow.python.ops.rnn_cell_impl) is deprecated and will be removed in a future version.
+Instructions for updating:
+This class is deprecated, please use tf.nn.rnn_cell.LSTMCell, which supports all the feature this cell currently has. Please replace the existing code with tf.nn.rnn_cell.LSTMCell(name='basic_lstm_cell').
+WARNING: 10-26 14:14:50: tf_logging.py:125 * 140128353457920 From /usr/local/lib/python3.5/dist-packages/tensorflow/python/training/input.py:187: QueueRunner.__init__ (from tensorflow.python.training.queue_runner_impl) is deprecated and will be removed in a future version.
+Instructions for updating:
+To construct input pipelines, use the `tf.data` module.
+WARNING: 10-26 14:14:50: tf_logging.py:125 * 140128353457920 From /usr/local/lib/python3.5/dist-packages/tensorflow/python/training/input.py:187: add_queue_runner (from tensorflow.python.training.queue_runner_impl) is deprecated and will be removed in a future version.
+Instructions for updating:
+To construct input pipelines, use the `tf.data` module.
+WARNING: 10-26 14:14:50: tf_logging.py:125 * 140128353457920 From /home/rnd/Downloads/work/Project/CRNN_Tensorflow_Car_number_plate_version_3.0/crnn_model/crnn_model.py:123: BasicLSTMCell.__init__ (from tensorflow.python.ops.rnn_cell_impl) is deprecated and will be removed in a future version.
+Instructions for updating:
+This class is deprecated, please use tf.nn.rnn_cell.LSTMCell, which supports all the feature this cell currently has. Please replace the existing code with tf.nn.rnn_cell.LSTMCell(name='basic_lstm_cell').
+WARNING: 10-26 14:14:52: tf_logging.py:125 * 140128353457920 From train_shadownet.py:130: start_queue_runners (from tensorflow.python.training.queue_runner_impl) is deprecated and will be removed in a future version.
+Instructions for updating:
+To construct input pipelines, use the `tf.data` module.
+WARNING: 10-26 15:11:02: tf_logging.py:125 * 140266139756288 From /usr/local/lib/python3.5/dist-packages/tensorflow/python/training/input.py:187: QueueRunner.__init__ (from tensorflow.python.training.queue_runner_impl) is deprecated and will be removed in a future version.
+Instructions for updating:
+To construct input pipelines, use the `tf.data` module.
+WARNING: 10-26 15:11:02: tf_logging.py:125 * 140266139756288 From /usr/local/lib/python3.5/dist-packages/tensorflow/python/training/input.py:187: add_queue_runner (from tensorflow.python.training.queue_runner_impl) is deprecated and will be removed in a future version.
+Instructions for updating:
+To construct input pipelines, use the `tf.data` module.
+WARNING: 10-26 15:11:02: tf_logging.py:125 * 140266139756288 From /home/rnd/Downloads/work/Project/CRNN_Tensorflow_Car_number_plate_version_3.0/crnn_model/crnn_model.py:123: BasicLSTMCell.__init__ (from tensorflow.python.ops.rnn_cell_impl) is deprecated and will be removed in a future version.
+Instructions for updating:
+This class is deprecated, please use tf.nn.rnn_cell.LSTMCell, which supports all the feature this cell currently has. Please replace the existing code with tf.nn.rnn_cell.LSTMCell(name='basic_lstm_cell').
+WARNING: 10-26 15:11:04: tf_logging.py:125 * 140266139756288 From train_shadownet.py:130: start_queue_runners (from tensorflow.python.training.queue_runner_impl) is deprecated and will be removed in a future version.
+Instructions for updating:
+To construct input pipelines, use the `tf.data` module.
+WARNING: 10-26 15:33:17: tf_logging.py:125 * 140397941307136 From /home/rnd/Downloads/work/Project/CRNN_Tensorflow_Car_number_plate_version_3.0/crnn_model/crnn_model.py:123: BasicLSTMCell.__init__ (from tensorflow.python.ops.rnn_cell_impl) is deprecated and will be removed in a future version.
+Instructions for updating:
+This class is deprecated, please use tf.nn.rnn_cell.LSTMCell, which supports all the feature this cell currently has. Please replace the existing code with tf.nn.rnn_cell.LSTMCell(name='basic_lstm_cell').
+WARNING: 10-26 15:51:30: tf_logging.py:125 * 140370597373696 From /usr/local/lib/python3.5/dist-packages/tensorflow/python/training/input.py:187: QueueRunner.__init__ (from tensorflow.python.training.queue_runner_impl) is deprecated and will be removed in a future version.
+Instructions for updating:
+To construct input pipelines, use the `tf.data` module.
+WARNING: 10-26 15:51:30: tf_logging.py:125 * 140370597373696 From /usr/local/lib/python3.5/dist-packages/tensorflow/python/training/input.py:187: add_queue_runner (from tensorflow.python.training.queue_runner_impl) is deprecated and will be removed in a future version.
+Instructions for updating:
+To construct input pipelines, use the `tf.data` module.
+WARNING: 10-26 15:51:30: tf_logging.py:125 * 140370597373696 From /home/rnd/Downloads/work/Project/CRNN_Tensorflow_Car_number_plate_version_3.0/crnn_model/crnn_model.py:123: BasicLSTMCell.__init__ (from tensorflow.python.ops.rnn_cell_impl) is deprecated and will be removed in a future version.
+Instructions for updating:
+This class is deprecated, please use tf.nn.rnn_cell.LSTMCell, which supports all the feature this cell currently has. Please replace the existing code with tf.nn.rnn_cell.LSTMCell(name='basic_lstm_cell').
+WARNING: 10-26 15:51:32: tf_logging.py:125 * 140370597373696 From train_shadownet.py:130: start_queue_runners (from tensorflow.python.training.queue_runner_impl) is deprecated and will be removed in a future version.
+Instructions for updating:
+To construct input pipelines, use the `tf.data` module.
+WARNING: 10-26 15:52:13: tf_logging.py:125 * 140446294824704 From /usr/local/lib/python3.5/dist-packages/tensorflow/python/training/input.py:187: QueueRunner.__init__ (from tensorflow.python.training.queue_runner_impl) is deprecated and will be removed in a future version.
+Instructions for updating:
+To construct input pipelines, use the `tf.data` module.
+WARNING: 10-26 15:52:13: tf_logging.py:125 * 140446294824704 From /usr/local/lib/python3.5/dist-packages/tensorflow/python/training/input.py:187: add_queue_runner (from tensorflow.python.training.queue_runner_impl) is deprecated and will be removed in a future version.
+Instructions for updating:
+To construct input pipelines, use the `tf.data` module.
+WARNING: 10-26 15:52:13: tf_logging.py:125 * 140446294824704 From /home/rnd/Downloads/work/Project/CRNN_Tensorflow_Car_number_plate_version_3.0/crnn_model/crnn_model.py:123: BasicLSTMCell.__init__ (from tensorflow.python.ops.rnn_cell_impl) is deprecated and will be removed in a future version.
+Instructions for updating:
+This class is deprecated, please use tf.nn.rnn_cell.LSTMCell, which supports all the feature this cell currently has. Please replace the existing code with tf.nn.rnn_cell.LSTMCell(name='basic_lstm_cell').
+WARNING: 10-26 15:52:14: tf_logging.py:125 * 140446294824704 From train_shadownet.py:130: start_queue_runners (from tensorflow.python.training.queue_runner_impl) is deprecated and will be removed in a future version.
+Instructions for updating:
+To construct input pipelines, use the `tf.data` module.
+WARNING: 10-26 16:38:44: tf_logging.py:125 * 140559874615040 From /usr/local/lib/python3.5/dist-packages/tensorflow/python/training/input.py:187: QueueRunner.__init__ (from tensorflow.python.training.queue_runner_impl) is deprecated and will be removed in a future version.
+Instructions for updating:
+To construct input pipelines, use the `tf.data` module.
+WARNING: 10-26 16:38:44: tf_logging.py:125 * 140559874615040 From /usr/local/lib/python3.5/dist-packages/tensorflow/python/training/input.py:187: add_queue_runner (from tensorflow.python.training.queue_runner_impl) is deprecated and will be removed in a future version.
+Instructions for updating:
+To construct input pipelines, use the `tf.data` module.
+WARNING: 10-26 16:38:44: tf_logging.py:125 * 140559874615040 From /home/rnd/Downloads/work/Project/CRNN_Tensorflow_Car_number_plate_version_3.0/crnn_model/crnn_model.py:123: BasicLSTMCell.__init__ (from tensorflow.python.ops.rnn_cell_impl) is deprecated and will be removed in a future version.
+Instructions for updating:
+This class is deprecated, please use tf.nn.rnn_cell.LSTMCell, which supports all the feature this cell currently has. Please replace the existing code with tf.nn.rnn_cell.LSTMCell(name='basic_lstm_cell').
+WARNING: 10-26 16:38:53: tf_logging.py:125 * 140559874615040 From train_shadownet.py:130: start_queue_runners (from tensorflow.python.training.queue_runner_impl) is deprecated and will be removed in a future version.
+Instructions for updating:
+To construct input pipelines, use the `tf.data` module.

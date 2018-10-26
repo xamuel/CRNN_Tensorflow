@@ -1,0 +1,6 @@
+model_checkpoint_path: "shadownet_2018-10-26-16-38-45.ckpt-296"
+all_model_checkpoint_paths: "shadownet_2018-10-26-16-38-45.ckpt-292"
+all_model_checkpoint_paths: "shadownet_2018-10-26-16-38-45.ckpt-293"
+all_model_checkpoint_paths: "shadownet_2018-10-26-16-38-45.ckpt-294"
+all_model_checkpoint_paths: "shadownet_2018-10-26-16-38-45.ckpt-295"
+all_model_checkpoint_paths: "shadownet_2018-10-26-16-38-45.ckpt-296"
